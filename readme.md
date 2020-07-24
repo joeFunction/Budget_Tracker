@@ -2,7 +2,7 @@
 
 The theme of this application is a Budget Tracker which will allow for offline access and functionality.
 
-The user will is able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, data will populate the total when brought back online.
+The user is able to add expenses and deposits to their budget with or without a connection. When entering transactions offline, data will populate the total when brought back online.
 
 Offline Functionality:
 
