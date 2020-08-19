@@ -53,6 +53,6 @@ THEN that will be shown on the page, and added to their transaction history when
    - Name: Joe Adams [![follower](https://img.shields.io/github/followers/joefunction?label=follower&style=social)](https://github.com/joeFunction)
    - Contact: adams.jd10@gmail.com 
   
-### License
+### Licenses
    - [![Copyright](https://img.shields.io/badge/Copyright-Joe-blue)](https://github.com/joeFunction)
   
