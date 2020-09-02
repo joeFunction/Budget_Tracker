@@ -58,7 +58,7 @@ function checkDatabase() {
         // access your pending object store
         const store = transaction.objectStore("pending");
 
-        // clear all items in your store
+        // clear all the items in your store
         store.clear();
       });
     }
