@@ -129,7 +129,7 @@ function sendTransaction(isAdding) {
       errorEl.textContent = "Missing Information";
     }
     else {
-      // clear form
+      // clear form data
       nameEl.value = "";
       amountEl.value = "";
     }
@@ -138,7 +138,7 @@ function sendTransaction(isAdding) {
     // fetch failed, so save in indexed db
     saveRecord(transaction);
 
-    // clear form
+    // clear form data
     nameEl.value = "";
     amountEl.value = "";
   });
