@@ -99,12 +99,12 @@ function sendTransaction(isAdding) {
     date: new Date().toISOString()
   };
 
-  // if subtracting funds, convert amount to negative number
+  // if subtracting funds, convert amount to a negative number
   if (!isAdding) {
     transaction.value *= -1;
   }
 
-  // add to beginning of current array of data
+  // add to the beginning of current array of data
   transactions.unshift(transaction);
 
   // re-run logic to populate ui with new record
