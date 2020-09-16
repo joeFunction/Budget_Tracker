@@ -32,7 +32,7 @@ SO THAT my account balance is accurate when I am traveling
   
 ### Usage
 
-Giving users a fast and easy way to track their money, and allowing them to access that information anytime is important. Having offline functionality is paramount to the applications success.
+Giving users a fast and easy way to track their finances, and allowing them to access that information anytime is important. Having offline functionality is paramount to the applications success.
 
 ### Functionality
 ``
